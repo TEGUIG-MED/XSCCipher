@@ -7,17 +7,12 @@
  * AES-128-GCM algorithm with HMAC for integrity checking.
  * 
  * Developed by TEGUIG-MED
- * Assisted by ChatGPT (OpenAI)
  * 
  * Security Note:
  * This implementation uses AES-128-GCM with HMAC for authentication, 
  * which is considered secure for most applications. For highly sensitive 
  * data, consider using AES-256.
  * 
- * For more information about ChatGPT and its capabilities, visit:
- * - OpenAI: https://www.openai.com
- * - ChatGPT Overview: https://www.openai.com/chatgpt
- * - API Documentation: https://platform.openai.com/docs
  */
 
 class XSCCipher
